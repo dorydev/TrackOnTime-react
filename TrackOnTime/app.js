@@ -1,0 +1,1 @@
+console.log("[LOG] - Successfully launched TrackOnTime.");
